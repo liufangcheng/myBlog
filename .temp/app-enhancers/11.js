@@ -1,0 +1,1 @@
+export { default } from "D:\\Users\\yougong\\Desktop\\友恭项目\\lfBlog\\blog\\node_modules\\vuepress-plugin-sakura\\bin\\enhanceAppFile.js"
